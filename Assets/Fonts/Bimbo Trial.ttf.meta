@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c7fc954f776092b4782f0956317294df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bimbo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 245afe2dcdec478458b9935f6bc0688f, type: 3}
+  - {fileID: 12800000, guid: f05036ce4091dda43bf39f89b42239f6, type: 3}
+  - {fileID: 12800000, guid: 555676340b52e2f42bf1cc62ea4f7e1b, type: 3}
+  - {fileID: 12800000, guid: e2e3f741506dd1f4ba1fb8fe8f30c8bc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
